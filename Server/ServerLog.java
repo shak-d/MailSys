@@ -1,0 +1,10 @@
+package Server;
+
+public enum ServerLog {
+    SERVER_STARTED,
+    ACCEPTED_CONNECTION,
+    CLIENT_AUTH,
+    ACTION_RECEIVED,
+    CLIENT_DISCONNECTED
+
+}
